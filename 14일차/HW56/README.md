@@ -5,7 +5,9 @@
 
 int형 5행 5열짜리 2차원 배열을 선언하여 1~20까지의 난수(random number)를 발생시켜 초기화 한 후 다음의 각각의 합을 구하시오.</br></br></h4>
 
+<div style="text-align:center">
 <img height="200px" src="./1.png" />
+</div>
 
 <h4>
 (사용함수)</br></br>
