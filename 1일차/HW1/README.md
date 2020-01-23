@@ -7,11 +7,12 @@
 // TODO // printAge() 함수의 선언부
 // TODO // printHeight() 함수의 선언부
 int main() {
-char name[20] = "본인성명"; int age = 500;
-double height = 170.8;
-printf("성명 : %s\n", name); printAge(age); printHeight(height);
-return 0; }
-// printAge() 함수의 정의부
-// TODO
-//printHeight() 함수의 정의부 // TODO
+    char name[20] = "본인성명"; int age = 500;
+    double height = 170.8;
+    printf("성명 : %s\n", name); printAge(age); printHeight(height);
+    return 0; }
+    // printAge() 함수의 정의부
+    // TODO
+    //printHeight() 함수의 정의부 // TODO
+}
 ```
