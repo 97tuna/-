@@ -8,7 +8,9 @@
 (실행결과)
 </br></br></h4>
 ```
-(입출력 예)</br>
-이름을 입력하시오 : Hong GilSoon </br>(출력형태)</br>
+(입출력 예)
+이름을 입력하시오 : Hong GilSoon
+
+(출력형태)
 “Hong GilSoon”
 ```
